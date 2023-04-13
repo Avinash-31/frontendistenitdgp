@@ -8,7 +8,7 @@ import Title from "../components/Title";
 import Loader from "../components/loader/Loader";
 import GalleryImage from "../components/GalleryImage/GalleryImage";
 
-import apiLinks from "../data/apiLink";
+import apiLinks from "../data/apiLink"; 
 
 function Gallery() {
   const [data, setData] = useState([]);
