@@ -1,6 +1,6 @@
 //const api = "https://backend.istenitdgp.com";
 //const api = "http://127.0.0.1:8000";
-const api = "16.16.80.2"
+const api = "https://16.16.80.2"
 
 
 const apiLinks = {
