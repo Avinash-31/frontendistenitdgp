@@ -49,11 +49,11 @@ export default function Carousels({ images }) {
             >
                 
                         <SwiperSlide>
-                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="/DSC07750.JPG" alt="gallery image"
+                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="/DSC07750.webp" alt="gallery image"
                             />                     
                         </SwiperSlide>
                         <SwiperSlide>
-                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="/DSC07720.JPG" alt="gallery image"
+                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="/DSC07720.webp" alt="gallery image"
                             />       
                         </SwiperSlide>
                         <SwiperSlide>
