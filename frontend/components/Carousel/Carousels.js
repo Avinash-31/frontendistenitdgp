@@ -49,26 +49,29 @@ export default function Carousels({ images }) {
             >
                 
                         <SwiperSlide>
-                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="/hero.jpg" alt="gallery image"
+                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="/cit1.png" alt="gallery image"
                             />                     
                         </SwiperSlide>
                         <SwiperSlide>
-                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="/hero.jpg" alt="gallery image"
+                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="/DSC07720.jpg" alt="gallery image"
                             />       
                         </SwiperSlide>
                         <SwiperSlide>
-                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="/hero.jpg" alt="gallery image"
+                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="DSC07750.jpg" alt="gallery image"
                             />       
                         </SwiperSlide>
                         <SwiperSlide>
-                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="/hero.jpg" alt="gallery image"
+                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="gallery3-min.png" alt="gallery image"
                             />       
                         </SwiperSlide>
                         <SwiperSlide>
-                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="/hero.jpg" alt="gallery image"
+                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="gallery4-min.png" alt="gallery image"
                             />       
                         </SwiperSlide>
-                 
+                        <SwiperSlide>
+                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="winter2-min.png" alt="gallery image"
+                            />       
+                        </SwiperSlide>
             </Swiper>
         </>
     );
