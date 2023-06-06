@@ -12,7 +12,7 @@ export function GalleryImage({ images }) {
                     <img className={s.gallery_image} src={data.Image} alt="Image" />
                     <div className={s.image_caption}>
                       <span className={s.image_name}>{data.eventName}</span>
-                      <span className={s.image_date}>{data.imgDate}</span>
+                      <span className={s.image_date}>{data.imgDate.slice(0,12)}</span>
                     </div>
                   </div>
                 )
