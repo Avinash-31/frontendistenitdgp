@@ -72,6 +72,10 @@ export default function Carousels({ images }) {
                             <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="winter2-min.png" alt="gallery image"
                             />       
                         </SwiperSlide>
+                        <SwiperSlide>
+                            <img className='h-[300px] md:h-[400px] rounded-2xl md:rounded-none' src="gallery home.jpg" alt="gallery image"
+                            />       
+                        </SwiperSlide>
             </Swiper>
         </>
     );
