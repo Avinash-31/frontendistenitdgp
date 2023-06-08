@@ -143,13 +143,13 @@ const Contact = () => {
                   </p>
                 </div>
                 <p className="text-base  font-normal text-body-color leading-relaxed  ">
-                  Harshit Surana :
+                  Abhishek Krishna :
                   <span className="font-normal text-[#0076fe] italic">
                     {contactDetails.mobile.chairperson}
                   </span>
                 </p>
                 <p className="text-base  font-normal leading-relaxed  mb-9 ">
-                  Ritabrata Ganguly :
+                   Pratiti Pradhan :
                   <span className="font-normal text-[#0076fe] italic">
                     {contactDetails.mobile.viceChairperson}
                   </span>
